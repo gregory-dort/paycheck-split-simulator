@@ -3,6 +3,8 @@ logs
 *.log
 npm-debug.log*
 .env
+package-lock.json
+package.json
 
 node_modules
 dist
